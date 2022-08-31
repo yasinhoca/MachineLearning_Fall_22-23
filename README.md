@@ -3,19 +3,19 @@
 22-23 güz dönemi
 
 Müfredat:
-1	Makine Öğrenmesine Giriş
-2	Eğitmenli Öğrenme
-3	Bayes Kuralı 
-4	Naive Bayes Teoremi	
-5	Karar Ağaçları	
-6	Lineer Ayırt Edici	
-7	Yapay Nöron Ağları 	
-8	Ara Sınav 1	
-9	Destek Vektör Makineleri	
-10	Doğrusal olmayan DVM	
-11	Eğitmensiz Öğrenme	
-12	Öbekleme : K-means, Karışım modelleri	
-13	Hiyerarşik Öbekleme Yöntemleri 	
-14	Birleşik Yöntemler: Boosting, Bagging	
-15	Final
+<br>1	Makine Öğrenmesine Giriş
+<br>2	Eğitmenli Öğrenme
+<br>3	Bayes Kuralı 
+<br>4	Naive Bayes Teoremi	
+<br>5	Karar Ağaçları	
+<br>6	Lineer Ayırt Edici	
+<br>7	Yapay Nöron Ağları 	
+<br>8	Ara Sınav 1	
+<br>9	Destek Vektör Makineleri	
+<br>10	Doğrusal olmayan DVM	
+<br>11	Eğitmensiz Öğrenme	
+<br>12	Öbekleme : K-means, Karışım modelleri	
+<br>13	Hiyerarşik Öbekleme Yöntemleri 	
+<br>14	Birleşik Yöntemler: Boosting, Bagging	
+<br>15	Final
  
