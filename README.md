@@ -19,3 +19,7 @@ Müfredat:
 <br>14	Birleşik Yöntemler: Boosting, Bagging	
 <br>15	Final
  
+Vize çoktan seçmeli test olarak uygulanacaktır.
+Dersi seçen öğrencilerden oluşturuan ekipler her hafta bir konunun slaytını hazırlayacak, örnek uygulamaları ve kodları sınıfta anlatacaklardır. Final puanının %25'i buradan gelecektir.
+Ayrıca dönem içinde yukarıdaki yöntemlerin programlanmasına dair ödevler verilecektir. Bu ödevler de final puanının %25'ni oluşturacaktır.
+Final notu, 50 puanlık test + 25 puanlık konu anlatımı + 25 puanlık dönem içi haftalık ödevlerden oluşacaktır. (Konu anlatımı ve haftalık ödevler dönem içinde düzenli yapılmalıdır, bütünleme sınavında telafisi olmayacaktır.)
