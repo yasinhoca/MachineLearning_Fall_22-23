@@ -18,3 +18,4 @@ Müfredat:
 13	Hiyerarşik Öbekleme Yöntemleri 	
 14	Birleşik Yöntemler: Boosting, Bagging	
 15	Final
+ 
