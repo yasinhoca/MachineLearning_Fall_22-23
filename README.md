@@ -3,9 +3,9 @@
 22-23 güz dönemi
 
 Müfredat:
-1	Makine Öğrenmesine Giriş	
-2	Eğitmenli Öğrenme 	
-3	Bayes Kuralı 	
+1	Makine Öğrenmesine Giriş
+2	Eğitmenli Öğrenme
+3	Bayes Kuralı 
 4	Naive Bayes Teoremi	
 5	Karar Ağaçları	
 6	Lineer Ayırt Edici	
