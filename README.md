@@ -3,20 +3,20 @@
 22-23 güz dönemi
 
 Müfredat:
-<br>1	Makine Öğrenmesine Giriş
-<br>2	Eğitmenli Öğrenme
-<br>3	Bayes Kuralı 
-<br>4	Naive Bayes Teoremi	
-<br>5	Karar Ağaçları	
-<br>6	Lineer Ayırt Edici	
-<br>7	Yapay Nöron Ağları 	
+<br>1	Makine öğrenmesine giriş
+<br>2	Verilerin sayısallaştırılması ve özellik belirleme
+<br>3	Naive Bayes (Sınıflandırma)
+<br>4	K-en yakın komşu (Sınıflandırma)
+<br>5	Yapay sinir ağları (Sınıflandırma)
+<br>6	Karar ağaçları (Sınıflandırma)
+<br>7	Destek vektör makinaları ve rastgele orman (Sınıflandırma)
 <br>8	Ara Sınav 1	
-<br>9	Destek Vektör Makineleri	
-<br>10	Doğrusal olmayan DVM	
-<br>11	Eğitmensiz Öğrenme	
-<br>12	Öbekleme : K-means, Karışım modelleri	
-<br>13	Hiyerarşik Öbekleme Yöntemleri 	
-<br>14	Birleşik Yöntemler: Boosting, Bagging	
+<br>9 K-ortalama (Kümeleme)
+<br>10	SLINK ve CLINK (Kümeleme)
+<br>11	DBSCANS ve OPTICS (Kümeleme)
+<br>12	Bagging, Boosting, Rastgele Altuzaylar (topluluk öğrenme)
+<br>13	Sınıflandırıcı performans ölçümleri (çapraz doğrulama, karışım matrisi, f1 skorlama, ROC eğrisi)	
+<br>14	Regresyon
 <br>15	Final
  
 Vize çoktan seçmeli test olarak uygulanacaktır.
