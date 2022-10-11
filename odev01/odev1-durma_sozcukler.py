@@ -4,9 +4,7 @@ str2 = open('m2.txt', 'r').read()
 str1 = str1.replace(".","")
 str1 = str1.replace(",","")
 str1 = str1.replace("'","")
-l1 = list(str1.split(" "))
-print(l1)
-print(len(l1))
+
 
 str2 = str2.replace(".","")
 str2 = str2.replace(",","")
@@ -21,6 +19,10 @@ for i in durma:
     str1 = str1.replace(i,"")
     str2 = str2.replace(i, "")
 
+l1 = list(str1.split(" "))
+print(l1)
+print(len(l1))       
+         
 l2 = list(str2.split(" "))
 print(l2)
 print(len(l2))
