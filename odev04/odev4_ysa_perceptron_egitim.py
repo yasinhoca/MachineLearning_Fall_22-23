@@ -29,8 +29,8 @@ def agirliklari_yeniden_hesapla(o,i):
 
 for i in range(1):
     for j in range(len(cikti)):
-        net_hesapla(j);
-        op = perceptron_cikti(j)
+        a = net_hesapla(j);
+        op = perceptron_cikti(a)
         agirliklari_yeniden_hesapla(op,j)
 
 print("Eğitim tamamlandı!\nEğitim sonrası ağırlıklar:")
